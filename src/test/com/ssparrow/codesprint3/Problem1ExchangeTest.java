@@ -13,7 +13,7 @@ import org.junit.Test;
  * @author Gao, Fei
  *
  */
-public class Problem1Exchangetest {
+public class Problem1ExchangeTest {
 
 	@Test
 	public void testGetSmallestPossiblePermutationByExchange() throws IOException {
